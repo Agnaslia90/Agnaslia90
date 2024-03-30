@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I´m Natalia 👋</h1>
-  <src = "https://media.licdn.com/dms/image/D4D16AQFiQRDtFoXtwg/profile-displaybackgroundimage-shrink_350_1400/0/1673039577731?e=1717027200&v=beta&t=ADapwFBcDa8h8bNhk5t61z6gfELyfEjSi7mXHN_m17Y"></src>
+  < img src = "https://media.licdn.com/dms/image/D4D16AQFiQRDtFoXtwg/profile-displaybackgroundimage-shrink_350_1400/0/1673039577731?e=1717027200&v=beta&t=ADapwFBcDa8h8bNhk5t61z6gfELyfEjSi7mXHN_m17Y">
 </div>
 <a href="https://www.linkedin.com/in/natalia-%C3%A1lvarez-romero-3a607960/"></a>
 
