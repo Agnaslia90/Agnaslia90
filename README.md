@@ -6,9 +6,9 @@
 
 ## Sobre mi
 
-- ⭐ Technician in Multiplatform Applications Development 
+- ⭐ Technician in Multiplatform Applications Development ⭐ 
 - 📲 Adroid Mobile developer
-- ⭐ ⭐ Email: natalvromfoc@gmail.com
+- 📫 natalvromfoc@gmail.com
 
 <br>
 
