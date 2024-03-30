@@ -17,12 +17,6 @@
 ### 👉 Programming languages
 
 <p align="left"> 
-  
-
-  <a href="https://dart.dev/">
-    <img alt="Kotlin" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  </a>
-&emsp;
 <a href="https://www.java.com/en/">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
