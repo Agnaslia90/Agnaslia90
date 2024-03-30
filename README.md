@@ -4,7 +4,7 @@
 </div>
 <a href="https://www.linkedin.com/in/natalia-%C3%A1lvarez-romero-3a607960/"></a>
 
-## About me
+## 💫 About me
 
 - ⭐ Technician in Multiplatform Applications Development ⭐ 
 - 📲 Adroid Mobile developer
