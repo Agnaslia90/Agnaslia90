@@ -9,8 +9,9 @@
 - ⭐ Technician in Multiplatform Applications Development ⭐ 
 - 📲 Adroid Mobile developer
 - 📫 natalvromfoc@gmail.com
+  
 
- <p><i><b>I am a people person who loves working in teams. I also consider myself curious, I learn very quickly, and I am completely excited about the world of programming..</b></i></p>
+ <p><i><b>I am a people person who loves working in teams. I also consider myself curious, I learn very quickly, and I am completely excited about the world of programming. I lived in London for 5 years, but currently I live in Sevilla which is my hometown.</b></i></p>
 
 <br>
 
