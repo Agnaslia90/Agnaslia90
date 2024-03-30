@@ -8,6 +8,9 @@
 
 - ⭐ Technician in Multiplatform Applications Development ⭐ 
 - 📲 Adroid Mobile developer
+
+- ![image](https://github.com/Agnaslia90/Agnaslia90/assets/117938843/fd880677-e457-44f8-9aee-b9019da5a138)
+
 <br>
 
 ## Proyectos *
