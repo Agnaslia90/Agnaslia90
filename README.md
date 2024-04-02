@@ -7,7 +7,7 @@
 ## 💫 About me
 
 - ⭐ Technician in Multiplatform Applications Development ⭐ 
-- 📲 Adroid Mobile developer
+- 📲 Android Mobile developer
 - 📫 natalvromfoc@gmail.com
   
 
