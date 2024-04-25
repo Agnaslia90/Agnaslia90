@@ -45,9 +45,9 @@
 <a href="https://github.com/Agnaslia90/Calculate_IMC.git" target="_blank"></a>
 <p>Application created to measure body mass index.</strong> 
 </div>
-<table>
+
   
-<table>
+
 <tr>
 <td width="50%">
 <h3 align="center">TO_DO APP</h3>
