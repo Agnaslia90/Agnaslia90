@@ -47,33 +47,3 @@
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   &emsp;
 
-## 🚀 Proyectos 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">IMC Calculator</h3>
-<div align="center">
-<a href="https://github.com/Agnaslia90/Calculate_IMC.git" target="_blank"></a>
-<p>Application created to measure body mass index.</strong> 
-</div>
-
-<tr>
-<td width="50%">
-<h3 align="center">TO_DO APP</h3>
-<div align="center">
-<a href="https://github.com/Agnaslia90/To_Do_App.git" target="_blank"></a>
-<p>Application created to measure body mass index.</strong> 
-</div>
-<table>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">POKEMON APP</h3>
-<div align="center">
-<a href="https://github.com/Agnaslia90/Pokemon.git" target="_blank"></a>
-<p>Application created to show the world a list of Pokemon and their qualities</strong> 
-</div>
-<table>
-           
-                                                                                      
