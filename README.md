@@ -1,6 +1,5 @@
 <div align="center">
 <h1 align="center">Hi, I´m Natalia 👋</h1>
-  <img src="[](https://media.istockphoto.com/id/1035676256/es/foto/fondo-de-galaxia-y-estrellas.jpg?s=612x612&w=0&k=20&c=CCOStm5MJtOBnAkAcYr_qH1iqi4Zae8ScvNHDEnSDVs=)"/>
 </div>
 
 <a href="https://www.linkedin.com/in/natalia-%C3%A1lvarez-romero-3a607960/"></a>
