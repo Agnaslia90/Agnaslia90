@@ -31,9 +31,6 @@
   <a>
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 </a>
-<a>
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase">
-</a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
