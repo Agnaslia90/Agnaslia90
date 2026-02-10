@@ -7,7 +7,7 @@
 ## 💫 About me
 
 - ⭐ Technician in Multiplatform Applications Development ⭐ 
-- 📲 Junior Android Mobile developer
+- 📲 Android Mobile developer
 - 📫 How to reach me: natalvromfoc@gmail.com
 - 👯 I collaborate on several android groups from Discord
 - ⚡ Fun fact: communication audiovisual appasionated
